@@ -1,6 +1,6 @@
 # TinDog 🐶📱
 
-**TinDog** is a playful and responsive landing page for a fictional startup — "Tinder for Dogs." Created as part of a web development course, this project showcases the use of **HTML**, **CSS**, and **Bootstrap 5** to build a stylish and mobile-friendly single-page website.
+**TinDog** is a playful and responsive landing page for a fictional startup which is essentially "Tinder for Dogs." Created as part of a web development course, this project showcases the use of **HTML**, **CSS**, and **Bootstrap** components to build a stylish and mobile-friendly single-page website.
 
 ## 🚀 Features
 
@@ -10,13 +10,7 @@
 - **Testimonial Section**: Realistic endorsement with media logos.
 - **Pricing Cards**: Flexible plans for every dog and owner.
 
-## 🛠️ Tech Stack
-
-- **HTML5**
-- **CSS3**
-- **Bootstrap 5**
-
-## 📁 Project Structure
+## 📁 File Structure
 ```
 TinDog/
 ├── index.html              # Main HTML file
